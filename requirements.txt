@@ -1,0 +1,12 @@
+# 1. Create requirements.txt
+requirements = """streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+"""
+with open("requirements.txt", "w") as f:
+    f.write(requirements)
+
+print("Created requirements.txt!")

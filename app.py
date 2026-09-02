@@ -10,7 +10,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 # Page Configuration
 st.set_page_config(page_title="Nigerian Renewable Energy Forecasting", layout="wide")
-st.title("⚡ Nigerian Renewable Energy Output Forecasting Dashboard")
+st.title("⚡ Predictive Analytics: Renewable Energy Output Forecasting Dashboard")
 st.markdown("Interactive analysis of meteorological variables and machine learning forecasting performance.")
 
 # Sidebar Controls
